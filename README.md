@@ -2,7 +2,8 @@
 
 Generated static site for https://amanmprojects.github.io/pdfcraft/
 
-Built from storytold/pdfcraft at commit c7505930 (v0.10.1) with:
+Built from storytold/pdfcraft on branch `fix/text-subset-line-join` (commit 1d76fcbc) plus
+uncommitted browser file-picker fixes, with:
 
 ```
 cd apps/pdfcraft-web && trunk build --release
